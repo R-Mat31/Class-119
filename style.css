@@ -1,0 +1,40 @@
+.heading{
+ color : snow;
+ font-size : 20px;
+ margin : 0px;
+ width : 100%;
+ box-shadow : lightpink 5px 5px 5px;
+}
+.heading_division{
+ background-color : oldlace;
+ padding : 10px;
+ border-radius : 20px;
+ color : mediumslateblue;
+ box-shadow : lightpink 5px 5px 5px;
+ float : none;
+ font-size : 20px;
+}
+.objects_division{
+ box-shadow : lightpink 5px 5px 5px;
+}
+.result{
+ box-shadow : lightpink 5px 5px 5px;
+ font-size : 15px;
+}
+.footer{
+ position : fixed;
+ bottom : 0;
+ background-color : lime;
+ color : navy;
+ width : 100%;
+ text-align : center;
+ font-family : Georgia, 'Times New Roman', Times, serif;
+ line-height : 3;
+}
+canvas{
+ border : 4px dashed lightpink;
+ border-radius : 40px;
+ box-shadow : lightpink 5px 5px 5px;
+ margin-top : 125px;
+ margin-bottom : 300px;
+}
